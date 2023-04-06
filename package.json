@@ -1,0 +1,23 @@
+{
+  "name": "api movie",
+  "version": "1.0.0",
+  "description": "api movie",
+  "main": "server.js",
+  "scripts": {
+    "test": "no",
+    "dev": "node server.js",
+    "start": "node generate.js && nodemon server.js"
+  },
+  "keywords": [
+    "movie-app"
+  ],
+  "author": "Hieu",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
