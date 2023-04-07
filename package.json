@@ -1,7 +1,7 @@
 {
-  "name": "api movie",
+  "name": "api-movie",
   "version": "1.0.0",
-  "description": "api movie",
+  "description": "api-movie",
   "main": "server.js",
   "scripts": {
     "test": "no",
